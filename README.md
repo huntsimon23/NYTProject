@@ -19,6 +19,32 @@ Field Parameters:
 
 * Experiment with console logging various fields.
 
+PSEUDOCODE (JS):
+1. ID fields to capture
+#search-text
+#records-text
+#startyear-text
+#end-text
+#searchbutton-text
+#clearbutton-text
+#searchresults
+
+
+2. create Variables to hold information
+    - API key
+    - search term
+    - year start
+    - year end
+    - number of records
+
+3. Build queryURL for AJAX Request
+
+4. 
+
+
+
+
+
 PHASE 2:
 ## Front-End Team
 

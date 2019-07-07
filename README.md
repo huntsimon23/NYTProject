@@ -1,5 +1,8 @@
 # NYTProject
-in class on 3/30/19
+Collaborative in class project on 3/30/19
+
+# Status
+This project was a timed excercise with multiple collaborators.  No further updates are antiipated.
 
 ## Front-End Team
 ![nyt-search](Images/nyt.png)

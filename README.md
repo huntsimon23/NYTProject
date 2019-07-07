@@ -2,7 +2,7 @@
 Collaborative in class project on 3/30/19
 
 # Status
-This project was a timed excercise with multiple collaborators.  No further updates are antiipated.
+This project was a timed excercise with multiple collaborators.  No further updates are anticipated.
 
 ## Front-End Team
 ![nyt-search](Images/nyt.png)
